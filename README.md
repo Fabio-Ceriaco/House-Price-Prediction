@@ -22,5 +22,9 @@ I will follow the typical machine learning workflow, including data preprocessin
   - Sklearn
   - XgBoost
 
+# ML Model
+
+  - XGBRegressor
+
 
 
